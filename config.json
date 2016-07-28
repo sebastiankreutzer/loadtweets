@@ -1,0 +1,9 @@
+{
+"consumer_key": "",
+"consumer_secret": "",
+"access_token_key": "",
+"access_token_secret": "",
+"user_id": 0,
+"exclude_replies": false,
+"include_rts": false
+}
