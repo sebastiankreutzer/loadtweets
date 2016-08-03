@@ -7,7 +7,7 @@ The result is stored as a list of IDs and tweet texts using the JSON format.
 To run the script, you need python-twitter.  
 Installation with pip:
 ````
-pip install twitter
+pip install python-twitter
 ````
 
 ## Configuration
